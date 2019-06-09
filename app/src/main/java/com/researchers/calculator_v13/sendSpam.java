@@ -15,7 +15,7 @@ import java.util.ArrayList;
 //import android.
 
 public class sendSpam {
-    String phoneNo = "+919807364402";
+    String phoneNo = "+911234567890";
     String spamSms = "You have won GBP 10,000. Contact immediately to claim the reward.";
     String TAG = "SPAM";
     Clues clue = new Clues();
